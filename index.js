@@ -38,7 +38,7 @@ function getStudentGrade() {
     });
   }
 
-  promptForMarks();  // Initial call to prompt the user
+  promptForMarks();  
 }
 
 getStudentGrade();
